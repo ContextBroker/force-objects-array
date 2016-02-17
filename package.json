@@ -1,0 +1,28 @@
+{
+  "name": "force-objects-array",
+  "version": "0.0.0",
+  "description": "Get an array of objects when giving a single object element or a mapping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piranna/force-objects-array.git"
+  },
+  "keywords": [
+    "array",
+    "object",
+    "mapping",
+    "convert"
+  ],
+  "author": "Telefónica I+D",
+  "contributors": [
+    "Jesús Leganés Combarro 'piranna' <piranna@gmail.com>"
+  ],
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/piranna/force-objects-array/issues"
+  },
+  "homepage": "https://github.com/piranna/force-objects-array#readme"
+}
